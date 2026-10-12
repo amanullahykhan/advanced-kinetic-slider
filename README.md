@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=advance-kinetic-slider.png" alt=" Advanced Kinetic Slider for Elementor - Commercial-grade Elementor slider widget with Ken Burns background motion, video backgrounds" width="100%" />
+</p>
+
 # Advanced Kinetic Slider for Elementor
 
 Commercial-grade Elementor slider widget with Ken Burns background motion, video backgrounds, 12 configurable "kinetic" content animations, an autoplay progress bar, and full accessibility support.
